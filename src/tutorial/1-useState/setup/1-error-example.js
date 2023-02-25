@@ -3,7 +3,7 @@ import React,{useState,useEffect} from 'react';
 
 
 const ErrorExample = () => {
-  let title= 'Random Tile';
+  let title= 'Random Title';
 
   const handleClick = () =>{
     console.log(title);
