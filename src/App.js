@@ -1,4 +1,7 @@
 import React from 'react'
+import Setup from './tutrial/1-useState/setu'
+
+
 function App() {
   return (
     <div className='container'>
