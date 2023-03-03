@@ -10,7 +10,7 @@ const[name,setName] = useState('Peter')
 const[age,setAge] = useState(30)
 const[message,setMessage] = useState('Hello')
 const myHandler=()=>{
-//setPerson({...person, message:'The new message'})
+setPerson({...person, message:'The new message'})
 setMessage('Hello and welcome')
 }
 
